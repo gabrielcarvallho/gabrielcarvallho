@@ -1,1 +1,1 @@
-Hello! my name is Gabriel Carvalho, I'm a Backend Developer from Brazil
+Hello! my name is Gabriel Carvalho, I'm a Backend Developer.

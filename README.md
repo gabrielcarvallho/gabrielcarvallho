@@ -1,6 +1,6 @@
 ## Hello! my name is Gabriel Carvalho, I'm a Backend Developer.
 
-![GabrielCarvalho's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabrielCarvalhoGit&show_icons=true&theme=dark&hide_border=true&bg_color=161b22)
+![GabrielCarvalho's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabrielCarvalhoGit&show_icons=true&theme=prussian&hide_border=false&bg_color=161b22)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielCarvalhoGit&langs_count=3&theme=prussian&hide_border=false&bg_color=161b22)
 
 <a href = "mailto:gabriel.carvalhogss@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>

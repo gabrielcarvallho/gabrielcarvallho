@@ -1,4 +1,4 @@
-## Hello! my name is Gabriel Carvalho, I'm a Backend Developer.
+## Hello! my name is Gabriel Carvalho, I'm a Back-End Developer.
 
 ![GabrielCarvalho's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabrielCarvalhoGit&show_icons=true&theme=prussian&hide_border=false&bg_color=161b22)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielCarvalhoGit&langs_count=3&theme=prussian&hide_border=false&bg_color=161b22)

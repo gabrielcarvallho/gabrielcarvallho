@@ -1,27 +1,26 @@
 ## Hello! my name is Gabriel Carvalho, I'm a Back-End Developer.
 
-![GabrielCarvalho's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabrielCarvalhoGit&show_icons=true&theme=prussian&hide_border=false&bg_color=161b22)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielCarvalhoGit&langs_count=3&theme=prussian&hide_border=false&bg_color=purple)
+<div>
+  
+  <img  height="180em" src="https://github-readme-stats.vercel.app/api?username=gabrielCarvalhoGit&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
+  <img align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielCarvalhoGit&layout=compact&langs_count=16&theme=midnight-purple"/>
+</div>
+<br>
 
-<a href = "mailto:gabriel.carvalhogss@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/gabriel-da-silva-carvalho-8802a1232/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-
-## Technologies and Tools
+## Technologies
 
 <img align="left" width="30px" src="https://img.icons8.com/color/48/000000/c-sharp-logo.png"/>
 <img align="left" width="30px" src="https://img.icons8.com/external-wanicon-lineal-color-wanicon/64/000000/external-sql-server-big-data-wanicon-lineal-color-wanicon.png" />
-<img align="left" width="30px" src="https://img.icons8.com/color/48/000000/visual-studio.png" />
-<img align="left" width="30px" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" />
-<img align="left" width="30px" src="https://img.icons8.com/fluency/48/000000/azure-1.png" />
-<img align="left" width="30px" src="https://img.icons8.com/ios/50/000000/github--v2.png" />
-<img align="left" width="30px" src="https://img.icons8.com/color/48/000000/docker.png" />
+<img align="left" width="30px" src="https://img.icons8.com/windows/32/000000/vuejs.png"/>
+<img align="left" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg"/>
 <br />
 <br />
 
-- C#/.NET 
-- SQL
-- Visual Studio
-- Visual Studio Code
-- Azure
-- GitHub
-- Docker
+## Contact
+
+<a href = "mailto: gabriel.carvalhogss@gmail.com@gmail.com">
+      <img width="30" src="https://raw.githubusercontent.com/devpedroolivo/devpedroolivo/da13b3d57e2c4798474c0dbe8a2085ec32f41738/gmail.svg">
+    </a>
+    <a href = "https://www.linkedin.com/in/gabriel-da-silva-carvalho-8802a1232/">
+      <img width="25" src="https://raw.githubusercontent.com/devpedroolivo/devpedroolivo/da13b3d57e2c4798474c0dbe8a2085ec32f41738/linkedin.svg">
+    </a>

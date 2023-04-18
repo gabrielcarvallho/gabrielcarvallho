@@ -1,8 +1,7 @@
 ## Hello! my name is Gabriel Carvalho, I'm a Back-End Developer.
 
-
-![gabrielCarvalhoGit's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabrielCarvalhoGit&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielCarvalhoGit&layout=compact&langs_count=16&theme=midnight-purple)
+![gabrielCarvalhoGit GitHub stats](https://github-readme-stats.vercel.app/api?username=gabrielCarvalhoGit&show_icons=true&theme=prussian&hide_border=false&bg_color=161b22)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielCarvalhoGit&langs_count=3&theme=prussian&hide_border=false&bg_color=161b22)
 
 <div  align="left"> 
 <h1 align="left">Technologies</h1>

@@ -8,11 +8,8 @@
 
 <div  align="left"> 
 <h1 align="left">Technologies</h1>
-<img align="left" width="30px" src="https://img.icons8.com/color/48/000000/c-sharp-logo.png"/>
-<img align="left" width="30px" src="https://img.icons8.com/external-wanicon-lineal-color-wanicon/64/000000/external-sql-server-big-data-wanicon-lineal-color-wanicon.png" />
-<img align="left" width="30px" src="https://img.icons8.com/windows/32/000000/vuejs.png"/>
-<img align="left" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg"/>
 <img align="left" width="30px" src="https://user-images.githubusercontent.com/122568941/232900566-0c2485b7-4b38-42e8-9db8-fdd828af60a8.png"/>
+<img align="left" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/postgresql/postgresql-original.svg"/>
 </div>
 <br>
 

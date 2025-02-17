@@ -11,7 +11,7 @@
    <a href="linkedin.com/in/gabriel-da-silva-carvalho-8802a1232/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
 </div>
 
-## Skills
+## Technologies
 
 ![C#](https://img.shields.io/badge/C%23-0D1117?style=for-the-badge&logo=Csharp&logoColor=white)
 ![next.js](https://img.shields.io/badge/next.js-0D1117?style=for-the-badge&logo=nextdotjs&logoColor=white)&nbsp;

@@ -18,4 +18,6 @@
 ![Python](https://img.shields.io/badge/-Python-0D1117?style=for-the-badge&logo=python&labelColor=0D1117)&nbsp;
 ![PostgreSQL](https://img.shields.io/badge/Postgresql-0D1117?style=for-the-badge&logo=postgresql&labelColor=0D1117)&nbsp;
 ![MySQL](https://img.shields.io/badge/-MySQL-0D1117?style=for-the-badge&logo=mysql&labelColor=0D1117&textColor=0D1117)&nbsp;
+![AWS](https://img.shields.io/badge/AWS-0D1117.svg?style=for-the-badge&logo=amazon-web-services&labelColor=0D1117&textColor=0D1117)
+![Microsoft Azure](https://custom-icon-badges.demolab.com/badge/Microsoft%20Azure-0D1117?style=for-the-badge&logo=msazure&labelColor=0D1117&textColor=0D1117)
 

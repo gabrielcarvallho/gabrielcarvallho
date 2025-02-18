@@ -11,13 +11,14 @@
    <a href="linkedin.com/in/gabriel-da-silva-carvalho-8802a1232/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
 </div>
 
-## Technologies
+## Technologies and Tools
 
-![C#](https://img.shields.io/badge/C%23-0D1117?style=for-the-badge&logo=Csharp&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-0D1117?style=for-the-badge&logo=Csharp&logoColor=white)&nbsp;
 ![next.js](https://img.shields.io/badge/next.js-0D1117?style=for-the-badge&logo=nextdotjs&logoColor=white)&nbsp;
 ![Python](https://img.shields.io/badge/-Python-0D1117?style=for-the-badge&logo=python&labelColor=0D1117)&nbsp;
 ![PostgreSQL](https://img.shields.io/badge/Postgresql-0D1117?style=for-the-badge&logo=postgresql&labelColor=0D1117)&nbsp;
 ![MySQL](https://img.shields.io/badge/-MySQL-0D1117?style=for-the-badge&logo=mysql&labelColor=0D1117&textColor=0D1117)&nbsp;
-![AWS](https://img.shields.io/badge/AWS-0D1117.svg?style=for-the-badge&logo=amazon-web-services&labelColor=0D1117&textColor=0D1117)
-![Microsoft Azure](https://custom-icon-badges.demolab.com/badge/Microsoft%20Azure-0D1117?style=for-the-badge&logo=msazure&labelColor=0D1117&textColor=0D1117)
+![Docker](https://img.shields.io/badge/Docker-0D1117?style=for-the-badge&logo=docker&labelColor=0D1117)&nbsp;
+![AWS](https://img.shields.io/badge/AWS-0D1117.svg?style=for-the-badge&logo=amazon-web-services&labelColor=0D1117&textColor=0D1117)&nbsp;
+![Microsoft Azure](https://custom-icon-badges.demolab.com/badge/Microsoft%20Azure-0D1117?style=for-the-badge&logo=msazure&labelColor=0D1117&textColor=0D1117)&nbsp;
 

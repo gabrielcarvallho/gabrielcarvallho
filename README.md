@@ -6,11 +6,6 @@
    <img height= "180em" src= "https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielCarvalhoGit&layout=compact&theme=github_dark&langs_count=10&hide_border=true"/>
 </div>
 
-<div align="center">
-   <a href="mailto:gabriel.carvalhogss@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
-   <a href="www.linkedin.com/in/gabriel-carvallho" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
-</div>
-
 ## Technologies and Tools
 
 ![C#](https://img.shields.io/badge/C%23-0D1117?style=for-the-badge&logo=Csharp&logoColor=white&textColor=0D1117)&nbsp;

@@ -1,14 +1,10 @@
-## Hello! my name is Gabriel Carvalho, I'm a Back-End Developer.
+# Hi there! 👋
 
-## Technologies and Tools
+I'm Gabriel Carvalho, a **Software Engineering undergraduate**, **co-founder** of Flowtec, and currently leading the company's **DevOps strategy**.  
+I also work as a **back-end developer**, building scalable and secure solutions with **.NET (C#)**.
 
-![C#](https://img.shields.io/badge/C%23-0D1117?style=for-the-badge&logo=Csharp&logoColor=white&textColor=0D1117)&nbsp;
-![next.js](https://img.shields.io/badge/next.js-0D1117?style=for-the-badge&logo=nextdotjs&logoColor=white&textColor=0D1117)&nbsp;
-![Python](https://img.shields.io/badge/-Python-0D1117?style=for-the-badge&logo=python&textColor=0D1117)&nbsp;
-![PostgreSQL](https://img.shields.io/badge/Postgresql-0D1117?style=for-the-badge&logo=postgresql&textColor=0D1117)&nbsp;
-![MySQL](https://img.shields.io/badge/-MySQL-0D1117?style=for-the-badge&logo=mysql&textColor=0D1117)&nbsp;
-![Docker](https://img.shields.io/badge/Docker-0D1117?style=for-the-badge&logo=docker&textColor=0D1117)&nbsp;
-![AWS](https://img.shields.io/badge/AWS-0D1117.svg?style=for-the-badge&logo=amazon-web-services&textColor=0D1117)&nbsp;
-![DigitalOcean](https://img.shields.io/badge/DigitalOcean-0D1117.svg?style=for-the-badge&logo=digitalOcean&textColor=0D1117)&nbsp;
-![Microsoft Azure](https://custom-icon-badges.demolab.com/badge/Microsoft%20Azure-0D1117?style=for-the-badge&logo=msazure&textColor=0D1117)&nbsp;
-![GitHub](https://img.shields.io/badge/github-0D1117.svg?style=for-the-badge&logo=github&textColor=0D1117)
+### So, let's meet!
+
+<p>you can contact me by e-mail: <strong>gabriellccarvalho.dev@gmail.com</strong></p>
+
+## You can also find me on [Linkedin](https://www.linkedin.com/in/gabriel-carvallho)
